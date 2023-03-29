@@ -9,6 +9,7 @@ This documentation contains the core features, concepts, procedures, design prin
 2. [Design Principles](#principles)
 3. [MVC Framework](#mvc-framework)
 4. [Project Setup](#project-setup)
+5. [Contributing](#contributing)
 
 
 # ARCHITECTURE
@@ -75,3 +76,7 @@ DB_CONNECTION_STRING = sql/localhost:PORT//<username>:<password>@sqlurlhere
 ```
 npm start
 ```
+
+# Contributing
+
+Please refer to [Contributions](/Contributions.md) for information on how to contribute
